@@ -13,7 +13,8 @@ Fully functional version of **AtlasLoot Classic** for **World of Warcraft 3.3.5a
 ### 🏰 Raids & Dungeons
 - Extended boss loot tables
 - Achievement integration directly in loot views
-📷 *Screenshot: Raid boss loot table with achievements*  
+📷 *Screenshot: Raid boss loot table with achievements*
+<img width="1093" height="716" alt="Снимок экрана 2026-02-01 214137" src="https://github.com/user-attachments/assets/bea1658c-c5e7-426c-91f3-fc0daba6de47" />
 ---
 ### ⚒️ Crafting
 - Crafting popup window with full reagent list
@@ -79,5 +80,6 @@ This repository is a **community backport and adaptation** for legacy Wrath serv
 If you find this project useful and want to support further development, you can buy me a coffee here:
 👉 https://boosty.to/exojdi
 Any support helps keep this project alive and actively maintained.
+
 
 
