@@ -1,0 +1,41 @@
+## Interface: 30300
+## Author: Jdi
+## Version: v6.0.0
+## OptionalDeps: AtlasLootClassic
+
+## Title: AtlasLootClassic |cFF33FFBDWotLK|r |cFFFF0000[Data]|r
+## Notes: AtlasLoot Data module
+
+## Title-deDE: AtlasLootClassic |cFFFF5733WotLK|r |cFFFF0000[Daten]|r
+## Title-esES: AtlasLoot Classic |cFFFF5733WotLK|r |cFFFF0000[Datos]|r
+## Title-esMX: AtlasLoot Classic |cFFFF5733WotLK|r |cFFFF0000[Datos]|r
+## Title-frFR: AtlasLoot Classic |cFFFF5733WotLK|r |cFFFF0000[Données]|r
+## Title-itIT: AtlasLootClassic |cFFFF5733WotLK|r |cFFFF0000[Data]|r
+## Title-koKR: AtlasLoot Classic |cFFFF5733WotLK|r |cFFFF0000[Data]|r
+## Title-ptBR: AtlasLoot Classic |cFFFF5733WotLK|r |cFFFF0000[Dada]|r
+## Title-ruRU: AtlasLootClassic |cFFFF5733WotLK|r |cFFFF0000[Data]|r
+## Title-zhCN: AtlasLootClassic |cFFFF5733WotLK|r |cFFFF0000[Data]|r
+## Title-zhTW: AtlasLootClassic |cFFFF5733WotLK|r |cFFFF0000[Data]|r
+## Notes-deDE: AtlasLoot Datenmodul
+## Notes-esES: AtlasLoot módulo de datos
+## Notes-esMX: AtlasLoot módulo de datos
+## Notes-frFR: Module de données
+## Notes-itIT: AtlasLoot data module
+## Notes-koKR: AtlasLoot 데이터 모듈
+## Notes-ptBR: Módulo de dados de AtlasLoot
+## Notes-ruRU: Модуль данных AtlasLoot
+## Notes-zhCN: AtlasLoot 数据模块
+## Notes-zhTW: AtlasLoot data module
+
+## X-Category: Map
+## X-License: GPL v2
+
+core.lua
+
+locales.lua
+items.lua
+source.lua
+source-tbc.lua
+source-wrath.lua
+source-cata.lua
+source-mop.lua

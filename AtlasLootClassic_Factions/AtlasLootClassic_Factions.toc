@@ -1,0 +1,40 @@
+## Interface: 30300
+## Author: Jdi
+## Version: v6.0.0
+## Dependencies: AtlasLootClassic
+## LoadOnDemand: 1
+
+## Title: AtlasLootClassic |cFF33FFBDWotLK|r |cFF0099FF[Factions]|r
+## Notes: AtlasLoot Faction loot tables
+
+## Title-deDE: AtlasLootClassic |cFFFF5733WotLK|r |cFF0099FF[Fraktionen]|r
+## Title-esES: AtlasLoot Classic |cFFFF5733WotLK|r |cFF0099FF[Facciones]|r
+## Title-esMX: AtlasLoot Classic |cFFFF5733WotLK|r |cFF0099FF[Facciones]|r
+## Title-frFR: AtlasLoot Classic |cFFFF5733WotLK|r |cFF0099FF[Factions]|r
+## Title-itIT: AtlasLootClassic |cFFFF5733WotLK|r |cFF0099FF[Factions]|r
+## Title-koKR: AtlasLoot Classic |cFFFF5733WotLK|r |cFF0099FF[Factions]|r
+## Title-ptBR: AtlasLoot Classic |cFFFF5733WotLK|r |cFF0099FF[Facções]|r
+## Title-ruRU: AtlasLootClassic |cFFFF5733WotLK|r |cFF0099FF[Factions]|r
+## Title-zhCN: AtlasLootClassic |cFFFF5733WotLK|r |cFF0099FF[Factions]|r
+## Title-zhTW: AtlasLootClassic |cFFFF5733WotLK|r |cFF0099FF[Factions]|r
+## Notes-deDE: AtlasLoot Beuteverzeichnis der Fraktionen
+## Notes-esES: AtlasLoot tablas de botín de Facciones
+## Notes-esMX: AtlasLoot tablas de botín de Facciones
+## Notes-frFR: Tables de butin des factions
+## Notes-itIT: AtlasLoot loot tables from Factions
+## Notes-koKR: AtlasLoot 평판 전리품 목록
+## Notes-ptBR: Tabelas de saque AtlasLoot das Facções
+## Notes-ruRU: Таблицы добычи AtlasLoot -  Фракции
+## Notes-zhCN: AtlasLoot - 声望阵营奖励物品列表
+## Notes-zhTW: AtlasLoot loot tables from Factions
+
+## X-Category: Map
+## X-License: GPL v2
+
+## X-AtlasLootClassic-LootModule: 1
+
+Locales\Locales.xml
+
+data.lua
+data-tbc.lua
+data-wrath.lua

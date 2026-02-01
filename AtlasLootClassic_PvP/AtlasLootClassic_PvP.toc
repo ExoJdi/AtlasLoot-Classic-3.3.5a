@@ -1,0 +1,41 @@
+## Interface: 30300
+## Author: Jdi
+## Version: v6.0.0
+## Dependencies: AtlasLootClassic
+## LoadOnDemand: 1
+
+## Title: AtlasLootClassic |cFF33FFBDWotLK|r |cFF0099FF[PvP]|r
+## Notes: AtlasLoot PvP loot tables
+
+## Title-deDE: AtlasLootClassic |cFFFF5733WotLK|r |cFF0099FF[PvP]|r
+## Title-esES: AtlasLoot Classic |cFFFF5733WotLK|r |cFF0099FF[JcJ]|r
+## Title-esMX: AtlasLoot Classic |cFFFF5733WotLK|r |cFF0099FF[JcJ]|r
+## Title-frFR: AtlasLoot Classic |cFFFF5733WotLK|r |cFF0099FF[JcJ]|r
+## Title-itIT: AtlasLootClassic |cFFFF5733WotLK|r |cFF0099FF[PvP]|r
+## Title-koKR: AtlasLoot Classic |cFFFF5733WotLK|r |cFF0099FF[PvP]|r
+## Title-ptBR: AtlasLoot Classic |cFFFF5733WotLK|r |cFF0099FF[JxJ]|r
+## Title-ruRU: AtlasLootClassic |cFFFF5733WotLK|r |cFF0099FF[PvP]|r
+## Title-zhCN: AtlasLootClassic |cFFFF5733WotLK|r |cFF0099FF[PvP]|r
+## Title-zhTW: AtlasLootClassic |cFFFF5733WotLK|r |cFF0099FF[PvP]|r
+## Notes-deDE: AtlasLoot Beuteverzeichnis für PvP
+## Notes-esES: AtlasLoot tablas de botín de JcJ
+## Notes-esMX: AtlasLoot tablas de botín de JcJ
+## Notes-frFR: Tables de butin JcJ
+## Notes-itIT: AtlasLoot loot tables from PvP
+## Notes-koKR: AtlasLoot PvP 아이템 전리품 목록
+## Notes-ptBR: Tabelas de saque AtlasLoot de JxJ
+## Notes-ruRU: Таблицы добычи AtlasLoot -  PvP
+## Notes-zhCN: AtlasLoot - PVP 奖励物品列表
+## Notes-zhTW: AtlasLoot loot tables from PvP
+
+## X-Category: Map
+## X-License: GPL v2
+
+## X-AtlasLootClassic-LootModule: 1
+
+Locales\Locales.xml
+
+private.lua
+data.lua
+data-tbc.lua
+data-wrath.lua

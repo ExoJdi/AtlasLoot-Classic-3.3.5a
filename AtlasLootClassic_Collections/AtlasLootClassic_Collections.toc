@@ -1,0 +1,41 @@
+## Interface: 30300
+## Author: Jdi
+## Version: v6.0.0
+## Dependencies: AtlasLootClassic
+## LoadOnDemand: 1
+
+## Title: AtlasLootClassic |cFF33FFBDWotLK|r |cFF0099FF[Collections]|r
+## Notes: AtlasLoot Collections loot tables
+
+## Title-deDE: AtlasLootClassic |cFFFF5733WotLK|r |cFF0099FF[Sammlungen]|r
+## Title-esES: AtlasLoot Classic |cFFFF5733WotLK|r |cFF0099FF[Colecciones]|r
+## Title-esMX: AtlasLoot Classic |cFFFF5733WotLK|r |cFF0099FF[Colecciones]|r
+## Title-frFR: AtlasLoot Classic |cFFFF5733WotLK|r |cFF0099FF[Collections]|r
+## Title-itIT: AtlasLootClassic |cFFFF5733WotLK|r |cFF0099FF[Collections]|r
+## Title-koKR: AtlasLoot Classic |cFFFF5733WotLK|r |cFF0099FF[Collections]|r
+## Title-ptBR: AtlasLoot Classic |cFFFF5733WotLK|r |cFF0099FF[Coleções]|r
+## Title-ruRU: AtlasLootClassic |cFFFF5733WotLK|r |cFF0099FF[Collections]|r
+## Title-zhCN: AtlasLootClassic |cFFFF5733WotLK|r |cFF0099FF[Collections]|r
+## Title-zhTW: AtlasLootClassic |cFFFF5733WotLK|r |cFF0099FF[Collections]|r
+## Notes-deDE: AtlasLoot Beuteverzeichnis der Sammlungen
+## Notes-esES: AtlasLoot tablas de botín de Colecciones
+## Notes-esMX: AtlasLoot tablas de botín de Colecciones
+## Notes-frFR: Tables de butin des collections
+## Notes-itIT: AtlasLoot loot tables from Collections
+## Notes-koKR: AtlasLoot 수집품 전리품 목록
+## Notes-ptBR: Tabelas de saque AtlasLoot das Coleções
+## Notes-ruRU: Таблицы добычи AtlasLoot -  Коллекции
+## Notes-zhCN: AtlasLoot - 收藏品列表
+## Notes-zhTW: AtlasLoot loot tables from Collections
+
+## X-Category: Map
+## X-License: GPL v2
+
+## X-AtlasLootClassic-LootModule: 1
+
+Locales\Locales.xml
+
+private.lua
+data.lua
+data-tbc.lua
+data-wrath.lua

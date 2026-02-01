@@ -1,0 +1,111 @@
+## Interface: 30300
+## Author: Jdi
+## Version: v6.0.0
+## SavedVariables: AtlasLootClassicDB
+## OptionalDeps: Ace3, LibSharedMedia-3.0, AceGUI-3.0-SharedMediaWidgets, LibDBIcon-1.0, LibDataBroker-1.1, !!!ClassicAPI
+## DefaultState: Enabled
+## LoadOnDemand: 0
+
+## Title: AtlasLootClassic |cFF33FFBDWotLK|r |cFF22B14C[Core]|r
+## Notes: Displays loot tables from various aspects of the game
+
+## Title-deDE: AtlasLootClassic |cFFFF5733WotLK|r |cFF22B14C[Kern]|r
+## Title-esES: AtlasLoot Classic |cFFFF5733WotLK|r |cFF22B14C[Núcleo]|r
+## Title-esMX: AtlasLoot Classic |cFFFF5733WotLK|r |cFF22B14C[Núcleo]|r
+## Title-frFR: AtlasLoot Classic |cFFFF5733WotLK|r |cFF22B14C[Noyau]|r
+## Title-itIT: AtlasLoot Classic |cFFFF5733WotLK|r |cFF22B14C[Core]|r
+## Title-koKR: AtlasLoot Classic |cFFFF5733WotLK|r |cFF22B14C[Core]|r
+## Title-ptBR: AtlasLoot Classic |cFFFF5733WotLK|r |cFF22B14C[Núcleo]|r
+## Title-ruRU: AtlasLoot Classic |cFFFF5733WotLK|r |cFF22B14C[Core]|r
+## Title-zhCN: AtlasLoot Classic |cFFFF5733WotLK|r |cFF22B14C[Core]|r
+## Title-zhTW: AtlasLoot Classic |cFFFF5733WotLK|r |cFF22B14C[Core]|r
+## Notes-deDE: Zeigt die mögliche Boss-Beute.
+## Notes-esES: Muestra botines posibles de jefes
+## Notes-esMX: Muestra botines posibles de jefes
+## Notes-frFR: Affiche les butins possibles des boss
+## Notes-itIT: Shows the possible loot from the bosses
+## Notes-koKR: 우두머리에게서 획득 가능한 전리품을 보여줍니다
+## Notes-ptBR: Mostra o possível saque dos chefes
+## Notes-ruRU: Показывает возможную добычу с боссов
+## Notes-zhCN: 展示Boss的掉落物品
+## Notes-zhTW: Shows the possible loot from the bosses
+
+## X-Credits: Daviesh, Lag, Arith, Cellelach, Asurn, Pernicus, Dynaletik, Snowflame0 and many others
+## X-Category: Map
+## X-License: GPL v2
+## X-Localizations: enUS, deDE, frFR, esES, koKR, zhCN, zhTW, esMX, ptBR, ruRU, itIT
+## X-Curse-Project-ID: 1024670
+## X-WoWI-ID: 26745
+## X-Wago-ID: ANz0LwK4
+
+Preload.lua
+Compat/PreAce3.lua
+embeds.xml
+
+Compat.lua
+
+Init.lua
+Core\Stubs.lua
+Constants.lua
+db.lua
+
+Locales\Locales.xml
+
+AtlasLoot.xml
+AtlasLoot.lua
+Loader.lua
+
+Core\SlashCommands.lua
+Core\BlizzardOptions.lua
+Core\ClickHandler.lua
+Core\ItemString.lua
+Core\TargetScan.lua
+Core\Tooltip.lua
+Core\TooltipScan.lua
+Core\Transmog.lua
+
+MiniMapButton.lua
+
+Data\Token.lua
+Data\Profession.lua
+Data\Recipe.lua
+Data\ContentPhase.lua
+Data\Droprate.lua
+Data\AutoSelect.lua
+Data\Requirements.lua
+Data\ClassFilter.lua
+Data\ItemSet.lua
+Data\VendorPrice.lua
+
+ItemDB\ItemDB.lua
+ItemDB\SoundData.lua
+
+Button\Button.lua
+Button\Item_type.lua
+Button\Achievement_type.lua
+Button\Currency_type.lua
+Button\Link_type.lua
+Button\Dummy_type.lua
+Button\Extra_Price_type.lua
+Button\Extra_Quest_type.lua
+Button\Faction_type.lua
+Button\Profession_type.lua
+Button\Set_type.lua
+
+GUI\GUI.xml
+GUI\GUI.lua
+GUI\Template_CheckBox.lua
+GUI\Template_Button.lua
+GUI\Template_Select.lua
+GUI\Template_DropDown.lua
+GUI\Template_TextWithBg.lua
+GUI\Template_Model.lua
+GUI\ItemFrame.lua
+GUI\ModelFrame.lua
+
+Addons\Addons.lua
+Addons\Sources.lua
+Addons\Search.lua
+Addons\Favourites.lua
+Addons\Favourites_GUI.lua
+Addons\Updates.lua
