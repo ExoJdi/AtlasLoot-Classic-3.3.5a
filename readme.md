@@ -20,7 +20,7 @@ Fully functional version of **AtlasLoot Classic** for **World of Warcraft 3.3.5a
 - Crafting popup window with full reagent list
 - Retail-style crafting interaction
 📷 *Screenshot: Crafting popup with reagents*
-![Uploading Снимок экрана 2026-02-01 214203.png…]()
+<img width="1092" height="717" alt="Снимок экрана 2026-02-01 214203" src="https://github.com/user-attachments/assets/d87aff13-59de-45ad-86ca-d8959f05eb66" />
 ---
 ### 🎨 User Interface
 - Retail-like layout and scaling
@@ -28,8 +28,8 @@ Fully functional version of **AtlasLoot Classic** for **World of Warcraft 3.3.5a
 - Improved tooltip consistency
 - Favorites system restored and fixed
 📷 *Screenshot: Main AtlasLoot UI*  
-![Uploading Снимок экрана 2026-02-01 214223.png…]()
-![Uploading Снимок экрана 2026-02-01 214236.png…]()
+<img width="1092" height="711" alt="Снимок экрана 2026-02-01 214223" src="https://github.com/user-attachments/assets/a8291f18-16d7-46af-ba3b-fc7c8372c105" />
+<img width="1096" height="718" alt="Снимок экрана 2026-02-01 214236" src="https://github.com/user-attachments/assets/9bd437e3-2e7d-4fe9-9535-0ba2a4722366" />
 ---
 ## 🔧 Fixed & Improved
 - Phase filtering logic (Classic / TBC / Wrath)
@@ -80,6 +80,7 @@ This repository is a **community backport and adaptation** for legacy Wrath serv
 If you find this project useful and want to support further development, you can buy me a coffee here:
 👉 https://boosty.to/exojdi
 Any support helps keep this project alive and actively maintained.
+
 
 
 
